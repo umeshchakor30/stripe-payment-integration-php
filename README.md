@@ -11,3 +11,5 @@ You also need to specify success_url, a page on your website that Checkout retur
 (File is create-checkout-session.php)
 
 4) Show a success or error page: (File is success.html)
+
+source : https://stripe.com/docs/payments/accept-a-payment
